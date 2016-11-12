@@ -1,3 +1,22 @@
+{|class="wikitable"
+|-{{Party shading/Democratic}}
+|States won by [[Hillary Clinton|Clinton]]/[[Tim Kaine|Kaine]]
+|-{{Party shading/Republican}}
+|States won by [[Donald Trump|Trump]]/[[Mike Pence|Pence]]
+|}
+'''Electoral methods'''
+* WTA – Winner-takes-all
+* CD – Congressional district<sup>★</sup>
+<div style="overflow:auto">
+{| class="wikitable sortable" style="text-align:right"
+|-
+! colspan=2 |
+! style="text-align:center;" colspan="3"| Hillary Clinton<br />Democratic
+! style="text-align:center;" colspan="3"| Donald Trump<br />Republican
+! style="text-align:center;" colspan="3"| Gary Johnson<br />Libertarian
+! style="text-align:center;" colspan="3"| Jill Stein<br />Green
+! style="text-align:center;" colspan="3"| Evan McMullin<br />Independent
+|-
 ! align=center | State or<br />district
 ! style="text-align:center; font-size: 60%" data-sort-type="number" | Electoral<br />method
 ! style="text-align:center;" data-sort-type="number"| #
